@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asha</h1>
+ <h1 align="center">Hi 👋, I'm Asha</h1>
+
 <h3 align="center">A passionate frontend developer fI'm a passionate React developer with a love for building interactive web applications and user interfaces. I enjoy working on challenging projects and exploring new technologies.rom India</h3>
+
+<img src = "https://media.licdn.com/dms/image/D4D16AQFHh24mXnMKBQ/profile-displaybackgroundimage-shrink_350_1400/0/1687498448704?e=1696464000&v=beta&t=Sw5WnyQIE6LgwzklJIzgzDFkmPeGA4NE8yXIO6GzMc0">
 
 - 🔭 I’m currently working on **Notebook**
 
