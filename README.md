@@ -1,6 +1,6 @@
  <h1 align="left">Hi, I'm Asha 👋🏻👩🏻‍💻</h1>
  
-<img src = "https://photos.google.com/photo/AF1QipNtXIMsy6rPrAqNVkYDgqvpGrB3Dx2TV1w8VT4r">
+<img src = "https://ibb.co/Pmds6mH">
 
 - 🔭 I’m currently working on **Notebook**
 
