@@ -1,4 +1,4 @@
- <h1 align="left">Hi, I'm Asha 👋🏻👩🏻‍💻h1>
+ <h1 align="left">Hi, I'm Asha 👋🏻👩🏻‍💻</h1>
 
 <h3 align="center">I'm a passionate React developer with a love for building interactive web applications and user interfaces. I enjoy working on challenging projects and exploring new technologies.</h3>
 
