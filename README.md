@@ -2,19 +2,7 @@
  
 <img src = "https://github.com/ashabikawat/ashabikawat/assets/141121441/b68629a5-138d-4824-a817-ad1b73105bc2">
 
-- 🔭 I’m currently working on **Notebook**
-
-- 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
-
-- 👨‍💻 All of my projects are available at [https://ashabikawat.netlify.app/](https://ashabikawat.netlify.app/)
-
-- 📝 I regularly write articles on [https://quilllandquest.blogspot.com/](https://quilllandquest.blogspot.com/)
-
-- 💬 Ask me about **HTML, CSS, Javascript,React, Node.js, MongoDB, Express.js**
-
-- 📫 How to reach me **ashaabikawat@gmail.com**
-
-- ⚡ Fun fact **The best debugging sessions happen after midnight, don't you agree?**
+<p>I'm a web developer who enjoys creating awesome things online. I focus on using the MERN (MongoDB, Express.js, React.js, Node.js) stack to build websites and applications that people love to use.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
