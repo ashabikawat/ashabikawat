@@ -33,7 +33,6 @@
 <img align="left" alt="Express.js" width="26px" src="https://github.com/ashabikawat/ashabikawat/assets/141121441/218e6973-1b68-4169-8d90-905aa141782b" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/ashabikawat/ashabikawat/assets/141121441/84bdbc23-90b7-4152-b0b7-b36f7738354a" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/ashabikawat/ashabikawat/assets/141121441/6194915b-2c6d-497f-828b-50f6a5b7f7d7" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
