@@ -1,10 +1,9 @@
 ### Hi there, I'm Asha Bikawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-   I'm a dedicated web developer with a focus on creating user-friendly
-      websites. My expertise lies in the MERN (MongoDB, Express.js, React.js,
-      Node.js) stack, allowing me to craft seamless and intuitive web
-      experiences. I thrive on blending functionality with simplicity to ensure
-      users have an easy and enjoyable time navigating through websites.
+Hey there! I'm your go-to Full Stack Developer, all set to make your virtual ideas real. I build slick websites for small and medium-sized businesses and help bring your tech dreams to life.
+I work wonders with JavaScript, React.js, Node.js, and express.js to make your online presence stand out. I focus on making websites easy to use.
+
+Your ideas + My skills = reliable, easy-to-use, and top-notch products.
 
 
 
